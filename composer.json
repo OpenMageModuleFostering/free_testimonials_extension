@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/free_testimonials_extension",
+    "name": "OpenMageModuleFostering\/free_testimonials_extension",
     "type": "magento-module",
     "license": "Creative-Commons-License-",
     "homepage": "",
     "description": "Free Magento Testimonials extension",
     "authors": [
-    {
-        "name": "TemplatesMaster",
-        "email": "support@templates-master.com"
-    }
-],
+        {
+            "name": "TemplatesMaster",
+            "email": "support@templates-master.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
